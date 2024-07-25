@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build keopex",
+    "startTime": "2024-07-25T07:00:40.517Z",
+    "endTime": "2024-07-25T07:00:45.749Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "keopex:build",
+      "target": "build",
+      "projectName": "keopex",
+      "hash": "10918130572664092238",
+      "startTime": "2024-07-25T07:00:40.526Z",
+      "endTime": "2024-07-25T07:00:45.748Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

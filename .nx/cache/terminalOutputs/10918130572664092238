@@ -1,0 +1,19 @@
+[2K[1G[1myarn run v1.22.19[22m[m
+[2K[1G[2m$ webpack --config webpack.config.js[22m
+asset [1m[32mmain.js[39m[22m 137 KiB [1m[32m[emitted][39m[22m [1m[32m[minimized][39m[22m (name: main) 1 related asset
+asset [1m[32mindex.html[39m[22m 600 bytes [1m[32m[emitted][39m[22m
+orphan modules 467 bytes [1m[33m[orphan][39m[22m 4 modules
+modules by path [1m../../../node_modules/[39m[22m 143 KiB
+  modules by path [1m../../../node_modules/react/[39m[22m 8 KiB
+    modules by path [1m../../../node_modules/react/*.js[39m[22m 404 bytes 2 modules
+    modules by path [1m../../../node_modules/react/cjs/*.js[39m[22m 7.61 KiB 2 modules
+  modules by path [1m../../../node_modules/react-dom/[39m[22m 131 KiB
+    [1m../../../node_modules/react-dom/client.js[39m[22m 619 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m../../../node_modules/react-dom/index.js[39m[22m 1.33 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m../../../node_modules/react-dom/cjs/react-dom.production.min.js[39m[22m 129 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  modules by path [1m../../../node_modules/scheduler/[39m[22m 4.33 KiB
+    [1m../../../node_modules/scheduler/index.js[39m[22m 198 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m../../../node_modules/scheduler/cjs/scheduler.production.min.js[39m[22m 4.14 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+[1m./src/index.tsx + 4 modules[39m[22m 748 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.93.0 compiled [1m[32msuccessfully[39m[22m in 3745 ms
+[2K[1GDone in 4.64s.

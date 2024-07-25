@@ -28,6 +28,264 @@
   "fileMap": {
     "nonProjectFiles": [],
     "projectFileMap": {
+      "keopex": [
+        {
+          "file": "apps/custom/keopex2/package.json",
+          "hash": "11371547203301977896",
+          "deps": [
+            "npm:typescript",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/custom/keopex2/public/favicon.ico",
+          "hash": "2949791817221603359"
+        },
+        {
+          "file": "apps/custom/keopex2/public/index.html",
+          "hash": "206967550202544582"
+        },
+        {
+          "file": "apps/custom/keopex2/public/logo192.png",
+          "hash": "7585273181698778288"
+        },
+        {
+          "file": "apps/custom/keopex2/public/logo512.png",
+          "hash": "9339365414554387981"
+        },
+        {
+          "file": "apps/custom/keopex2/public/manifest.json",
+          "hash": "1447645250373428393"
+        },
+        {
+          "file": "apps/custom/keopex2/public/robots.txt",
+          "hash": "2790380794362165217"
+        },
+        {
+          "file": "apps/custom/keopex2/src/entities/post/ui/post.tsx",
+          "hash": "18078728054377262094"
+        },
+        {
+          "file": "apps/custom/keopex2/src/index.tsx",
+          "hash": "14151934539618539386"
+        },
+        {
+          "file": "apps/custom/keopex2/tsconfig.baseapp.json",
+          "hash": "11813540094859664429"
+        },
+        {
+          "file": "apps/custom/keopex2/webpack.config.js",
+          "hash": "9589788945661479705"
+        }
+      ],
+      "core": [
+        {
+          "file": "libs/core/package.json",
+          "hash": "2826705266644473139",
+          "deps": [
+            "npm:@mantine/core",
+            "npm:@mantine/hooks",
+            "npm:@reduxjs/toolkit",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:react",
+            "npm:react-dom",
+            "npm:react-redux",
+            "npm:react-router-dom",
+            "npm:redux-saga",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "libs/core/src/app/index.ts",
+          "hash": "18318133992197889467"
+        },
+        {
+          "file": "libs/core/src/app/ui/app.tsx",
+          "hash": "17067766792594125294"
+        },
+        {
+          "file": "libs/core/src/entities/post/index.ts",
+          "hash": "3616497175584495192"
+        },
+        {
+          "file": "libs/core/src/entities/post/ui/post.tsx",
+          "hash": "2842833651369700640"
+        }
+      ],
+      "monorepo": [
+        {
+          "file": ".gitignore",
+          "hash": "7170635170817196199"
+        },
+        {
+          "file": ".idea/.gitignore",
+          "hash": "16259663310133185705"
+        },
+        {
+          "file": ".idea/inspectionProfiles/Project_Default.xml",
+          "hash": "8912173605315939135"
+        },
+        {
+          "file": ".idea/modules.xml",
+          "hash": "8091591361386794991"
+        },
+        {
+          "file": ".idea/monorepo.iml",
+          "hash": "13958612906897732226"
+        },
+        {
+          "file": ".idea/vcs.xml",
+          "hash": "13133292049869755439"
+        },
+        {
+          "file": "base.webpack.config.js",
+          "hash": "6178195332413615656"
+        },
+        {
+          "file": "nx.json",
+          "hash": "13167373076889474133"
+        },
+        {
+          "file": "package.json",
+          "hash": "2581990917066118027",
+          "deps": [
+            "npm:@babel/core",
+            "npm:@babel/preset-env",
+            "npm:@babel/preset-react",
+            "npm:@types/webpack",
+            "npm:babel-loader",
+            "npm:css-loader",
+            "npm:html-webpack-plugin",
+            "npm:mini-css-extract-plugin",
+            "npm:nx",
+            "npm:style-loader",
+            "npm:ts-loader",
+            "npm:tsconfig-paths-webpack-plugin",
+            "npm:typescript",
+            "npm:webpack",
+            "npm:webpack-cli",
+            "npm:webpack-dev-server"
+          ]
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "14963638673471392463"
+        },
+        {
+          "file": "yarn.lock",
+          "hash": "17752060755654653494"
+        }
+      ],
+      "keopexcopy": [
+        {
+          "file": "apps/custom/keopex4/package.json",
+          "hash": "9477746869547228094",
+          "deps": [
+            "npm:typescript",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/custom/keopex4/public/favicon.ico",
+          "hash": "2949791817221603359"
+        },
+        {
+          "file": "apps/custom/keopex4/public/index.html",
+          "hash": "206967550202544582"
+        },
+        {
+          "file": "apps/custom/keopex4/public/logo192.png",
+          "hash": "7585273181698778288"
+        },
+        {
+          "file": "apps/custom/keopex4/public/logo512.png",
+          "hash": "9339365414554387981"
+        },
+        {
+          "file": "apps/custom/keopex4/public/manifest.json",
+          "hash": "1447645250373428393"
+        },
+        {
+          "file": "apps/custom/keopex4/public/robots.txt",
+          "hash": "2790380794362165217"
+        },
+        {
+          "file": "apps/custom/keopex4/src/entities/post/ui/post.tsx",
+          "hash": "13474299591481492028"
+        },
+        {
+          "file": "apps/custom/keopex4/src/index.tsx",
+          "hash": "14151934539618539386"
+        },
+        {
+          "file": "apps/custom/keopex4/tsconfig.baseapp.json",
+          "hash": "11813540094859664429"
+        },
+        {
+          "file": "apps/custom/keopex4/webpack.config.js",
+          "hash": "9589788945661479705"
+        }
+      ],
+      "spacey": [
+        {
+          "file": "apps/custom/spacey/package.json",
+          "hash": "8507080323482598040",
+          "deps": [
+            "npm:typescript",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/custom/spacey/public/favicon.ico",
+          "hash": "2949791817221603359"
+        },
+        {
+          "file": "apps/custom/spacey/public/index.html",
+          "hash": "206967550202544582"
+        },
+        {
+          "file": "apps/custom/spacey/public/logo192.png",
+          "hash": "7585273181698778288"
+        },
+        {
+          "file": "apps/custom/spacey/public/logo512.png",
+          "hash": "9339365414554387981"
+        },
+        {
+          "file": "apps/custom/spacey/public/manifest.json",
+          "hash": "1447645250373428393"
+        },
+        {
+          "file": "apps/custom/spacey/public/robots.txt",
+          "hash": "2790380794362165217"
+        },
+        {
+          "file": "apps/custom/spacey/src/entities/post/ui/post.tsx",
+          "hash": "5372240193702825355"
+        },
+        {
+          "file": "apps/custom/spacey/src/index.tsx",
+          "hash": "14151934539618539386"
+        },
+        {
+          "file": "apps/custom/spacey/tsconfig.baseapp.json",
+          "hash": "354303861533848741"
+        },
+        {
+          "file": "apps/custom/spacey/webpack.config.js",
+          "hash": "11682840923000733806"
+        }
+      ],
       "base": [
         {
           "file": "apps/base/package.json",
@@ -79,105 +337,6 @@
         {
           "file": "apps/base/webpack.config.js",
           "hash": "11682840923000733806"
-        }
-      ],
-      "monorepo": [
-        {
-          "file": ".gitignore",
-          "hash": "15207262115544837003"
-        },
-        {
-          "file": ".idea/.gitignore",
-          "hash": "16259663310133185705"
-        },
-        {
-          "file": ".idea/inspectionProfiles/Project_Default.xml",
-          "hash": "8912173605315939135"
-        },
-        {
-          "file": ".idea/modules.xml",
-          "hash": "8091591361386794991"
-        },
-        {
-          "file": ".idea/monorepo.iml",
-          "hash": "13958612906897732226"
-        },
-        {
-          "file": ".idea/vcs.xml",
-          "hash": "13133292049869755439"
-        },
-        {
-          "file": "base.webpack.config.js",
-          "hash": "6178195332413615656"
-        },
-        {
-          "file": "nx.json",
-          "hash": "14443875240832808589"
-        },
-        {
-          "file": "package.json",
-          "hash": "2581990917066118027",
-          "deps": [
-            "npm:@babel/core",
-            "npm:@babel/preset-env",
-            "npm:@babel/preset-react",
-            "npm:@types/webpack",
-            "npm:babel-loader",
-            "npm:css-loader",
-            "npm:html-webpack-plugin",
-            "npm:mini-css-extract-plugin",
-            "npm:nx",
-            "npm:style-loader",
-            "npm:ts-loader",
-            "npm:tsconfig-paths-webpack-plugin",
-            "npm:typescript",
-            "npm:webpack",
-            "npm:webpack-cli",
-            "npm:webpack-dev-server"
-          ]
-        },
-        {
-          "file": "tsconfig.json",
-          "hash": "14963638673471392463"
-        },
-        {
-          "file": "yarn.lock",
-          "hash": "17752060755654653494"
-        }
-      ],
-      "core": [
-        {
-          "file": "libs/core/package.json",
-          "hash": "2826705266644473139",
-          "deps": [
-            "npm:@mantine/core",
-            "npm:@mantine/hooks",
-            "npm:@reduxjs/toolkit",
-            "npm:@types/react",
-            "npm:@types/react-dom",
-            "npm:react",
-            "npm:react-dom",
-            "npm:react-redux",
-            "npm:react-router-dom",
-            "npm:redux-saga",
-            "npm:typescript"
-          ]
-        },
-        {
-          "file": "libs/core/src/app/index.ts",
-          "hash": "18318133992197889467"
-        },
-        {
-          "file": "libs/core/src/app/ui/app.tsx",
-          "hash": "17067766792594125294"
-        },
-        {
-          "file": "libs/core/src/entities/post/index.ts",
-          "hash": "3616497175584495192"
-        },
-        {
-          "file": "libs/core/src/entities/post/ui/post.tsx",
-          "hash": "2842833651369700640"
         }
       ]
     }
