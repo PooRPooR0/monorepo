@@ -15,5 +15,5 @@ modules by path [1m../../../node_modules/[39m[22m 143 KiB
     [1m../../../node_modules/scheduler/index.js[39m[22m 198 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
     [1m../../../node_modules/scheduler/cjs/scheduler.production.min.js[39m[22m 4.14 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
 [1m./src/index.tsx + 4 modules[39m[22m 748 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
-webpack 5.93.0 compiled [1m[32msuccessfully[39m[22m in 3745 ms
-[2K[1GDone in 4.64s.
+webpack 5.93.0 compiled [1m[32msuccessfully[39m[22m in 3830 ms
+[2K[1GDone in 4.90s.
