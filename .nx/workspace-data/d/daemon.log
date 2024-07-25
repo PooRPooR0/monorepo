@@ -1,0 +1,33 @@
+[NX Daemon Server] - 2024-07-25T06:08:41.986Z - Started listening on: \\.\pipe\nx\C:\Users\KASENB~1\AppData\Local\Temp\7037dd58ad7f1fca718e\d.sock
+[NX Daemon Server] - 2024-07-25T06:08:41.991Z - [WATCHER]: Subscribed to changes within: C:\test\monorepo (native)
+[NX Daemon Server] - 2024-07-25T06:08:42.000Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-25T06:08:42.003Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-07-25T06:08:42.003Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-25T06:08:42.004Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-25T06:08:42.283Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T06:08:42.283Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T06:08:42.283Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T06:08:42.291Z - Time taken for 'loadNxPlugins' 276.8252ms
+[NX Daemon Server] - 2024-07-25T06:08:42.718Z - Time taken for 'build-project-configs' 399.0187000000001ms
+[NX Daemon Server] - 2024-07-25T06:08:42.791Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-25T06:08:42.792Z - Time taken for 'total for creating and serializing project graph' 786.5419999999999ms
+[NX Daemon Server] - 2024-07-25T06:08:42.794Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-25T06:08:42.795Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 787. Response time: 4.
+[NX Daemon Server] - 2024-07-25T06:08:42.877Z - [WATCHER]: .idea/workspace.xml.tmp was deleted
+[NX Daemon Server] - 2024-07-25T06:08:42.878Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T06:08:42.884Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-07-25T06:08:42.985Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T06:08:42.985Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T06:08:42.985Z - [REQUEST]: .idea/workspace.xml.tmp
+[NX Daemon Server] - 2024-07-25T06:08:42.988Z - Time taken for 'hash changed files from watcher' 0.09410000000002583ms
+[NX Daemon Server] - 2024-07-25T06:08:43.001Z - Time taken for 'build-project-configs' 11.291300000000092ms
+[NX Daemon Server] - 2024-07-25T06:08:43.020Z - Time taken for 'total execution time for createProjectGraph()' 15.555200000000013ms
+[NX Daemon Server] - 2024-07-25T06:08:57.655Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-25T06:08:57.656Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-07-25T06:08:57.658Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-25T06:08:57.660Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-25T06:08:57.660Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-25T06:08:57.660Z - Time taken for 'total for creating and serializing project graph' 0.38400000000001455ms
+[NX Daemon Server] - 2024-07-25T06:08:57.661Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-25T06:08:57.661Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-07-25T06:08:57.666Z - Closed a connection. Number of open connections: 0

@@ -1,0 +1,185 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.5.2",
+  "deps": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-react": "^7.24.7",
+    "@types/webpack": "^5.28.5",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.0",
+    "mini-css-extract-plugin": "^2.9.0",
+    "nx": "19.5.2",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.1",
+    "tsconfig-paths-webpack-plugin": "^4.1.0",
+    "typescript": "^5.5.4",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "pathMappings": {
+    "@core/*": [
+      "libs/core/src/*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "base": [
+        {
+          "file": "apps/base/package.json",
+          "hash": "7705138076702997990",
+          "deps": [
+            "npm:typescript",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/base/public/favicon.ico",
+          "hash": "2949791817221603359"
+        },
+        {
+          "file": "apps/base/public/index.html",
+          "hash": "206967550202544582"
+        },
+        {
+          "file": "apps/base/public/logo192.png",
+          "hash": "7585273181698778288"
+        },
+        {
+          "file": "apps/base/public/logo512.png",
+          "hash": "9339365414554387981"
+        },
+        {
+          "file": "apps/base/public/manifest.json",
+          "hash": "1447645250373428393"
+        },
+        {
+          "file": "apps/base/public/robots.txt",
+          "hash": "2790380794362165217"
+        },
+        {
+          "file": "apps/base/src/entities/post/ui/post.tsx",
+          "hash": "5482243892545097179"
+        },
+        {
+          "file": "apps/base/src/index.tsx",
+          "hash": "14151934539618539386"
+        },
+        {
+          "file": "apps/base/tsconfig.baseapp.json",
+          "hash": "3832566484649501563"
+        },
+        {
+          "file": "apps/base/webpack.config.js",
+          "hash": "11682840923000733806"
+        }
+      ],
+      "monorepo": [
+        {
+          "file": ".gitignore",
+          "hash": "15207262115544837003"
+        },
+        {
+          "file": ".idea/.gitignore",
+          "hash": "16259663310133185705"
+        },
+        {
+          "file": ".idea/inspectionProfiles/Project_Default.xml",
+          "hash": "8912173605315939135"
+        },
+        {
+          "file": ".idea/modules.xml",
+          "hash": "8091591361386794991"
+        },
+        {
+          "file": ".idea/monorepo.iml",
+          "hash": "13958612906897732226"
+        },
+        {
+          "file": ".idea/vcs.xml",
+          "hash": "13133292049869755439"
+        },
+        {
+          "file": "base.webpack.config.js",
+          "hash": "6178195332413615656"
+        },
+        {
+          "file": "nx.json",
+          "hash": "14443875240832808589"
+        },
+        {
+          "file": "package.json",
+          "hash": "2581990917066118027",
+          "deps": [
+            "npm:@babel/core",
+            "npm:@babel/preset-env",
+            "npm:@babel/preset-react",
+            "npm:@types/webpack",
+            "npm:babel-loader",
+            "npm:css-loader",
+            "npm:html-webpack-plugin",
+            "npm:mini-css-extract-plugin",
+            "npm:nx",
+            "npm:style-loader",
+            "npm:ts-loader",
+            "npm:tsconfig-paths-webpack-plugin",
+            "npm:typescript",
+            "npm:webpack",
+            "npm:webpack-cli",
+            "npm:webpack-dev-server"
+          ]
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "14963638673471392463"
+        },
+        {
+          "file": "yarn.lock",
+          "hash": "17752060755654653494"
+        }
+      ],
+      "core": [
+        {
+          "file": "libs/core/package.json",
+          "hash": "2826705266644473139",
+          "deps": [
+            "npm:@mantine/core",
+            "npm:@mantine/hooks",
+            "npm:@reduxjs/toolkit",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:react",
+            "npm:react-dom",
+            "npm:react-redux",
+            "npm:react-router-dom",
+            "npm:redux-saga",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "libs/core/src/app/index.ts",
+          "hash": "18318133992197889467"
+        },
+        {
+          "file": "libs/core/src/app/ui/app.tsx",
+          "hash": "17067766792594125294"
+        },
+        {
+          "file": "libs/core/src/entities/post/index.ts",
+          "hash": "3616497175584495192"
+        },
+        {
+          "file": "libs/core/src/entities/post/ui/post.tsx",
+          "hash": "2842833651369700640"
+        }
+      ]
+    }
+  }
+}

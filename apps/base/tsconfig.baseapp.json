@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "@core/*": ["apps/base/src/*","libs/core/src/*"]
+    }
+  },
+}
